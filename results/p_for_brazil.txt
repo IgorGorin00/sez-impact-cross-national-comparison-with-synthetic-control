@@ -1,0 +1,212 @@
+ceará
+grp
+Matrix is singular. occured for ceará, grp
+
+industry
+Pre-period fit diagnostic: Were the treated harder to match in the pre-period than the controls were.
+Average difference in outcome for pre-period between treated and SC unit (concerning if p-value close to 0 ): 
+7128.50569695691 (p-value: 0.39285714285714285)
+
+(Investigate per-period match quality more using self.pl_res_pre.effect_vec)
+
+Average Effect Estimation: -2424.51507850294 (p-value: 0.7142857142857143)
+
+Effect Path Estimation:
+ -961.0545368465391 (p-value: 0.8214285714285714)
+-8844.61432325076 (p-value: 0.39285714285714285)
+-16413.249608207745 (p-value: 0.5357142857142857)
+138.4601384849302 (p-value: 1.0)
+-220.16535629580903 (p-value: 1.0)
+-28328.595919479718 (p-value: 0.25)
+8462.710444062839 (p-value: 0.5714285714285714)
+8971.431254260926 (p-value: 0.6071428571428571)
+2065.199065855959 (p-value: 0.9642857142857143)
+10884.728056386513 (p-value: 0.5357142857142857)
+
+ 
+
+Estimated effect of SEZ is 10885.0,                                 with a p-value of  0.54
+
+export
+Matrix is singular. occured for ceará, export
+
+piauí
+grp
+Matrix is singular. occured for piauí, grp
+
+industry
+Pre-period fit diagnostic: Were the treated harder to match in the pre-period than the controls were.
+Average difference in outcome for pre-period between treated and SC unit (concerning if p-value close to 0 ): 
+1390.4139980082236 (p-value: 0.6785714285714286)
+
+(Investigate per-period match quality more using self.pl_res_pre.effect_vec)
+
+Average Effect Estimation: 2222.296984103977 (p-value: 0.75)
+
+Effect Path Estimation:
+ 1497.3810058784006 (p-value: 0.8571428571428571)
+1473.1456765206449 (p-value: 0.7142857142857143)
+12779.87577560242 (p-value: 0.5714285714285714)
+-507.58136537538576 (p-value: 0.8928571428571429)
+220.21770652758914 (p-value: 1.0)
+-2768.6514209403504 (p-value: 0.8571428571428571)
+609.3168810506031 (p-value: 0.9285714285714286)
+7765.777311383148 (p-value: 0.6428571428571429)
+-6622.791118157376 (p-value: 0.75)
+7776.27938855008 (p-value: 0.6428571428571429)
+
+ 
+
+Estimated effect of SEZ is 7776.0,                                 with a p-value of  0.64
+
+export
+Pre-period fit diagnostic: Were the treated harder to match in the pre-period than the controls were.
+Average difference in outcome for pre-period between treated and SC unit (concerning if p-value close to 0 ): 
+128032.27215221059 (p-value: 0.6666666666666666)
+
+(Investigate per-period match quality more using self.pl_res_pre.effect_vec)
+
+Average Effect Estimation: -33786.47458915478 (p-value: 0.9259259259259259)
+
+Effect Path Estimation:
+ -154234.34273729136 (p-value: 0.5555555555555556)
+-92913.47623334546 (p-value: 0.8148148148148148)
+-132950.2138959912 (p-value: 0.7037037037037037)
+-96015.57712745795 (p-value: 0.8148148148148148)
+86748.07601074758 (p-value: 0.8888888888888888)
+35205.16249152878 (p-value: 0.9629629629629629)
+3668.2668524940964 (p-value: 1.0)
+-244.18005536380224 (p-value: 1.0)
+-101949.12866352429 (p-value: 0.9259259259259259)
+19620.157773276325 (p-value: 0.9629629629629629)
+61414.03510422469 (p-value: 0.9629629629629629)
+
+ 
+
+Estimated effect of SEZ is 61414.0,                                 with a p-value of  0.96
+
+acre
+grp
+Matrix is singular. occured for acre, grp
+
+industry
+Pre-period fit diagnostic: Were the treated harder to match in the pre-period than the controls were.
+Average difference in outcome for pre-period between treated and SC unit (concerning if p-value close to 0 ): 
+1516.4772389502623 (p-value: 0.5714285714285714)
+
+(Investigate per-period match quality more using self.pl_res_pre.effect_vec)
+
+Average Effect Estimation: -1778.76411897953 (p-value: 0.8214285714285714)
+
+Effect Path Estimation:
+ 145.1577610504287 (p-value: 0.9285714285714286)
+1692.5395473100218 (p-value: 0.8214285714285714)
+8934.889992892462 (p-value: 0.6785714285714286)
+-1637.994386112673 (p-value: 0.7142857142857143)
+-838.3454093695136 (p-value: 0.8571428571428571)
+-5210.082096397666 (p-value: 0.7142857142857143)
+-5361.793083945663 (p-value: 0.6785714285714286)
+-364.4458775085768 (p-value: 1.0)
+-8608.368794027845 (p-value: 0.6785714285714286)
+-6539.198843686274 (p-value: 0.5714285714285714)
+
+ 
+
+Estimated effect of SEZ is -6539.0,                                 with a p-value of  0.57
+
+export
+Pre-period fit diagnostic: Were the treated harder to match in the pre-period than the controls were.
+Average difference in outcome for pre-period between treated and SC unit (concerning if p-value close to 0 ): 
+427864.06779156334 (p-value: 0.37037037037037035)
+
+(Investigate per-period match quality more using self.pl_res_pre.effect_vec)
+
+Average Effect Estimation: -1058011.8964172904 (p-value: 0.2962962962962963)
+
+Effect Path Estimation:
+ -61705.821601951495 (p-value: 0.7407407407407407)
+198152.54740844108 (p-value: 0.6666666666666666)
+-722891.7537424024 (p-value: 0.4074074074074074)
+-531261.6486658361 (p-value: 0.5925925925925926)
+-579491.4551790189 (p-value: 0.4444444444444444)
+-1417057.7379922187 (p-value: 0.25925925925925924)
+-1535475.4112459198 (p-value: 0.2962962962962963)
+-1442658.4198457599 (p-value: 0.25925925925925924)
+-1754364.3049923442 (p-value: 0.2222222222222222)
+-1427869.6379110646 (p-value: 0.3333333333333333)
+-2363507.2168221194 (p-value: 0.2962962962962963)
+
+ 
+
+Estimated effect of SEZ is -2363507.0,                                 with a p-value of  0.3
+
+pernambuco
+grp
+Pre-period fit diagnostic: Were the treated harder to match in the pre-period than the controls were.
+Average difference in outcome for pre-period between treated and SC unit (concerning if p-value close to 0 ): 
+120705.45108128482 (p-value: 0.9259259259259259)
+
+(Investigate per-period match quality more using self.pl_res_pre.effect_vec)
+
+Average Effect Estimation: -6686.842222020394 (p-value: 0.4074074074074074)
+
+Effect Path Estimation:
+ -1246.5850487308053 (p-value: 0.6666666666666666)
+-588.4961035264423 (p-value: 1.0)
+3361.4575326697377 (p-value: 0.5185185185185185)
+-9431.745230287343 (p-value: 0.37037037037037035)
+-5263.031774805713 (p-value: 0.5555555555555556)
+-26952.652707441797 (p-value: 0.2222222222222222)
+
+ 
+
+Estimated effect of SEZ is -26953.0,                                 with a p-value of  0.22
+
+industry
+Pre-period fit diagnostic: Were the treated harder to match in the pre-period than the controls were.
+Average difference in outcome for pre-period between treated and SC unit (concerning if p-value close to 0 ): 
+6704.165175636009 (p-value: 0.6428571428571429)
+
+(Investigate per-period match quality more using self.pl_res_pre.effect_vec)
+
+Average Effect Estimation: -2677.6958656091506 (p-value: 0.8214285714285714)
+
+Effect Path Estimation:
+ -8284.362352546363 (p-value: 0.5357142857142857)
+49581.33322109643 (p-value: 0.17857142857142858)
+20073.523838461217 (p-value: 0.35714285714285715)
+-74670.25507799635 (p-value: 0.21428571428571427)
+61159.403669087995 (p-value: 0.2857142857142857)
+-63925.81849175783 (p-value: 0.25)
+
+ 
+
+Estimated effect of SEZ is -63926.0,                                 with a p-value of  0.25
+
+export
+Matrix is singular. occured for pernambuco, export
+
+minas gerais
+grp
+Matrix is singular. occured for minas gerais, grp
+
+industry
+Pre-period fit diagnostic: Were the treated harder to match in the pre-period than the controls were.
+Average difference in outcome for pre-period between treated and SC unit (concerning if p-value close to 0 ): 
+47287.26064191797 (p-value: 0.35714285714285715)
+
+(Investigate per-period match quality more using self.pl_res_pre.effect_vec)
+
+Average Effect Estimation: -262359.7333586096 (p-value: 0.07142857142857142)
+
+Effect Path Estimation:
+ -391594.2993341248 (p-value: 0.07142857142857142)
+-133125.16738309438 (p-value: 0.10714285714285714)
+
+ 
+
+Estimated effect of SEZ is -133125.0,                                 with a p-value of  0.11
+
+export
+Matrix is singular. occured for minas gerais, export
+

@@ -1,0 +1,222 @@
+andhra pradesh
+grp
+Matrix is singular. occured for andhra pradesh, grp
+
+industry
+Matrix is singular. occured for andhra pradesh, industry
+
+investments
+Matrix is singular. occured for andhra pradesh, investments
+
+fixed_assets
+Matrix is singular. occured for andhra pradesh, fixed_assets
+
+karnataka
+grp
+Matrix is singular. occured for karnataka, grp
+
+industry
+Matrix is singular. occured for karnataka, industry
+
+investments
+Matrix is singular. occured for karnataka, investments
+
+fixed_assets
+Matrix is singular. occured for karnataka, fixed_assets
+
+tamil nadu
+grp
+Pre-period fit diagnostic: Were the treated harder to match in the pre-period than the controls were.
+Average difference in outcome for pre-period between treated and SC unit (concerning if p-value close to 0 ): 
+385558.9833504632 (p-value: 0.21212121212121213)
+
+(Investigate per-period match quality more using self.pl_res_pre.effect_vec)
+
+Average Effect Estimation: 11591291.743567213 (p-value: 0.24242424242424243)
+
+Effect Path Estimation:
+ 917640.6591526642 (p-value: 0.2727272727272727)
+1491601.2234823033 (p-value: 0.24242424242424243)
+2843705.370485306 (p-value: 0.12121212121212122)
+2212104.4899764657 (p-value: 0.36363636363636365)
+2827929.161333263 (p-value: 0.36363636363636365)
+5636710.486674637 (p-value: 0.12121212121212122)
+7754377.204785742 (p-value: 0.09090909090909091)
+9776095.91529841 (p-value: 0.18181818181818182)
+10562223.583375067 (p-value: 0.24242424242424243)
+11375013.515385374 (p-value: 0.24242424242424243)
+12447469.651031524 (p-value: 0.24242424242424243)
+11350038.027323648 (p-value: 0.36363636363636365)
+9198742.652941242 (p-value: 0.3939393939393939)
+12428980.019020677 (p-value: 0.3333333333333333)
+14602131.121961296 (p-value: 0.3333333333333333)
+18015826.716832012 (p-value: 0.3333333333333333)
+19814006.40245831 (p-value: 0.3939393939393939)
+55388655.1826919 (p-value: 0.30303030303030304)
+
+ 
+
+Estimated effect of SEZ is 55388655.0,                                 with a p-value of  0.3
+
+industry
+Matrix is singular. occured for tamil nadu, industry
+
+investments
+Matrix is singular. occured for tamil nadu, investments
+
+fixed_assets
+Matrix is singular. occured for tamil nadu, fixed_assets
+
+madhya pradesh
+grp
+Matrix is singular. occured for madhya pradesh, grp
+
+industry
+Matrix is singular. occured for madhya pradesh, industry
+
+investments
+Pre-period fit diagnostic: Were the treated harder to match in the pre-period than the controls were.
+Average difference in outcome for pre-period between treated and SC unit (concerning if p-value close to 0 ): 
+97094.17317218122 (p-value: 0.06060606060606061)
+
+(Investigate per-period match quality more using self.pl_res_pre.effect_vec)
+
+Average Effect Estimation: 2669387.8758485215 (p-value: 0.2727272727272727)
+
+Effect Path Estimation:
+ 180885.78733463446 (p-value: 0.30303030303030304)
+-60931.52625786327 (p-value: 0.5757575757575758)
+-70044.70422439463 (p-value: 0.6060606060606061)
+-219856.09040837642 (p-value: 0.6060606060606061)
+-611272.291162001 (p-value: 0.42424242424242425)
+-1197737.5945563214 (p-value: 0.3333333333333333)
+19006.588140186854 (p-value: 1.0)
+-370500.33834635746 (p-value: 0.7575757575757576)
+9070753.007338116 (p-value: 0.09090909090909091)
+1996647.5980702266 (p-value: 0.3939393939393939)
+2327619.1358398814 (p-value: 0.36363636363636365)
+5525196.58343152 (p-value: 0.21212121212121213)
+5498082.340005109 (p-value: 0.21212121212121213)
+6316095.346100286 (p-value: 0.21212121212121213)
+5755785.044639178 (p-value: 0.24242424242424243)
+8550477.127632523 (p-value: 0.18181818181818182)
+
+ 
+
+Estimated effect of SEZ is 8550477.0,                                 with a p-value of  0.18
+
+fixed_assets
+Pre-period fit diagnostic: Were the treated harder to match in the pre-period than the controls were.
+Average difference in outcome for pre-period between treated and SC unit (concerning if p-value close to 0 ): 
+31457.074918020386 (p-value: 0.3333333333333333)
+
+(Investigate per-period match quality more using self.pl_res_pre.effect_vec)
+
+Average Effect Estimation: 3101195.010763943 (p-value: 0.15151515151515152)
+
+Effect Path Estimation:
+ 247325.53818775853 (p-value: 0.15151515151515152)
+223615.96829404822 (p-value: 0.3333333333333333)
+17438.15959280962 (p-value: 0.8484848484848485)
+-268083.8037150679 (p-value: 0.48484848484848486)
+-405243.623737521 (p-value: 0.5151515151515151)
+-1050753.4300435083 (p-value: 0.2727272727272727)
+-268798.50924837217 (p-value: 0.7878787878787878)
+-1775964.6034251405 (p-value: 0.3333333333333333)
+7838661.712316231 (p-value: 0.06060606060606061)
+2683527.488423215 (p-value: 0.2727272727272727)
+3500253.2590661272 (p-value: 0.18181818181818182)
+6791259.185026324 (p-value: 0.15151515151515152)
+6968368.634449875 (p-value: 0.21212121212121213)
+7456209.0189911 (p-value: 0.18181818181818182)
+7405541.535004614 (p-value: 0.18181818181818182)
+10255763.643040597 (p-value: 0.15151515151515152)
+
+ 
+
+Estimated effect of SEZ is 10255764.0,                                 with a p-value of  0.15
+
+west bengal
+grp
+Pre-period fit diagnostic: Were the treated harder to match in the pre-period than the controls were.
+Average difference in outcome for pre-period between treated and SC unit (concerning if p-value close to 0 ): 
+137142.29419681468 (p-value: 0.5757575757575758)
+
+(Investigate per-period match quality more using self.pl_res_pre.effect_vec)
+
+Average Effect Estimation: 3419392.2414278984 (p-value: 0.48484848484848486)
+
+Effect Path Estimation:
+ 585253.8981481774 (p-value: 0.42424242424242425)
+1343633.1545716508 (p-value: 0.3333333333333333)
+1847864.1775650177 (p-value: 0.3333333333333333)
+2480938.4823403633 (p-value: 0.2727272727272727)
+2557845.12453588 (p-value: 0.30303030303030304)
+3819865.04524994 (p-value: 0.18181818181818182)
+4794636.528925078 (p-value: 0.2727272727272727)
+7451227.023004803 (p-value: 0.21212121212121213)
+8632831.304855052 (p-value: 0.21212121212121213)
+9712941.440817386 (p-value: 0.21212121212121213)
+11135921.243135927 (p-value: 0.21212121212121213)
+12583771.294218212 (p-value: 0.21212121212121213)
+13024354.752585176 (p-value: 0.2727272727272727)
+14619003.46830595 (p-value: 0.2727272727272727)
+14359319.771596083 (p-value: 0.2727272727272727)
+4896550.255750589 (p-value: 0.6060606060606061)
+3395942.1820955314 (p-value: 0.8484848484848485)
+-55692838.801998645 (p-value: 0.30303030303030304)
+
+ 
+
+Estimated effect of SEZ is -55692839.0,                                 with a p-value of  0.3
+
+industry
+Matrix is singular. occured for west bengal, industry
+
+investments
+Matrix is singular. occured for west bengal, investments
+
+fixed_assets
+Matrix is singular. occured for west bengal, fixed_assets
+
+uttar pradesh
+grp
+Matrix is singular. occured for uttar pradesh, grp
+
+industry
+Matrix is singular. occured for uttar pradesh, industry
+
+investments
+Matrix is singular. occured for uttar pradesh, investments
+
+fixed_assets
+Pre-period fit diagnostic: Were the treated harder to match in the pre-period than the controls were.
+Average difference in outcome for pre-period between treated and SC unit (concerning if p-value close to 0 ): 
+50978.91629637295 (p-value: 0.09090909090909091)
+
+(Investigate per-period match quality more using self.pl_res_pre.effect_vec)
+
+Average Effect Estimation: -10300336.03273301 (p-value: 0.06060606060606061)
+
+Effect Path Estimation:
+ -2003019.7642190913 (p-value: 0.030303030303030304)
+-1817923.8848285303 (p-value: 0.030303030303030304)
+-2698496.909155297 (p-value: 0.030303030303030304)
+-2629147.0547036715 (p-value: 0.030303030303030304)
+-5285155.459560052 (p-value: 0.030303030303030304)
+-5606012.876467394 (p-value: 0.06060606060606061)
+-9234237.351638936 (p-value: 0.06060606060606061)
+-10760209.314918198 (p-value: 0.09090909090909091)
+-15952375.212881632 (p-value: 0.030303030303030304)
+-18083870.801288284 (p-value: 0.06060606060606061)
+-14164518.397362314 (p-value: 0.09090909090909091)
+-14899568.211424813 (p-value: 0.09090909090909091)
+-14996463.753832389 (p-value: 0.09090909090909091)
+-14712344.417653866 (p-value: 0.09090909090909091)
+-14611031.025143012 (p-value: 0.09090909090909091)
+-17351002.08865068 (p-value: 0.09090909090909091)
+
+ 
+
+Estimated effect of SEZ is -17351002.0,                                 with a p-value of  0.09
+

@@ -17,18 +17,18 @@ To run the code and reproduce the results of this project, the following depende
 
 The project repository is organized as follows:
 
-    Main directory contains Jupyter notebooks and scripts that demonstrate the data preprocessing steps, SCM implementation, and result analysis for each country.
-    datasets/: Contains the datasets used for the analysis, and bash script to download them.
-    results/: Stores the generated output files, including SCM estimates and evaluation metrics (json files).
-    README.md: This file provides an overview of the project and instructions for running the code.
+Main directory contains Jupyter notebooks and scripts that demonstrate the data preprocessing steps, SCM implementation, and result analysis for each country.
+datasets/: Contains the datasets used for the analysis, and bash script to download them.
+results/: Stores the generated output files, including SCM estimates and evaluation metrics (json files).
+README.md: This file provides an overview of the project and instructions for running the code.
 
 ## Usage
 
-    Clone the repository to your local machine.
-    Install the required dependencies using pip or any other package manager of your choice.
-    Navigate to the directory and run the Jupyter notebooks in the desired order (SC-for-india-sez.ipynb, SC-for-brazil-sez.ipynb, SC-for-russian-sez.ipynb) to perform the analysis for each country.
-    Follow the instructions within the notebooks to preprocess the data, implement the SCM models using SparseSC, and interpret the results.
-    The output files with SCM estimates and evaluation metrics will be saved in the results/ directory for further analysis and reporting.
+Clone the repository to your local machine.
+Install the required dependencies using pip or any other package manager of your choice.
+Navigate to the directory and run the Jupyter notebooks in the desired order (SC-for-india-sez.ipynb, SC-for-brazil-sez.ipynb, SC-for-russian-sez.ipynb) to perform the analysis for each country.
+Follow the instructions within the notebooks to preprocess the data, implement the SCM models using SparseSC, and interpret the results.
+The output files with SCM estimates and evaluation metrics will be saved in the results/ directory for further analysis and reporting.
 
 ## Conclusion
 

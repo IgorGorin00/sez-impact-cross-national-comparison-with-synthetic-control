@@ -37,3 +37,7 @@ This project employs the SparseSC library to evaluate the impact of SEZs in Indi
 Please refer to the Jupyter notebooks and the respective sections within them for detailed explanations and step-by-step instructions on data preprocessing, SCM implementation, and result analysis.
 
 Note: The data used in this project is for illustrative purposes only and may not reflect the latest available data.
+
+
+You can also find the complete codebase on GitHub:
+- [Vizualization of Results](https://github.com/IgorGorin00/research_sc_viz)

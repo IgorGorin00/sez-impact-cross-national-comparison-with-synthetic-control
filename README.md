@@ -39,5 +39,6 @@ Please refer to the Jupyter notebooks and the respective sections within them fo
 Note: The data used in this project is for illustrative purposes only and may not reflect the latest available data.
 
 
-You can also find the complete codebase on GitHub:
+
+You can also find the codebase for:
 - [Vizualization of Results](https://github.com/IgorGorin00/research_sc_viz)
